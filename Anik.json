@@ -7,16 +7,16 @@
     "allowOffline": true
   },{
     "id": "c216c33b7481292d",
-    "username": "anikmods",
-    "password": "anikmods",
-    "expiresAt": "2025-01-31",
+    "username": "anik",
+    "password": "anikmodder",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
-    "expiresAt": "2025-01-30",
+    "expiresAt": "2025-12-30",
     "allowOffline": false
   }
 ]
