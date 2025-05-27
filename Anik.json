@@ -5,44 +5,29 @@
     "password": "Anik12",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },{
+    "id": "icfc3ff946dd2017",
+    "username": "Anik19",
+    "password": "Anik19",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },{
+    "id": "ucfc3ff946dd2017",
+    "username": "Anik18",
+    "password": "Anik18",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },{
+    "id": "ecfc3ff946dd2017",
+    "username": "Anik11",
+    "password": "Anik11",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
-[
-  {
-    "id": "1cfc3ff946dd2017",
-    "username": "Anik12",
-    "password": "Anik12",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user3",
-    "password": "pass3",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
-]
-[
-  {
-    "id": "1cfc3ff946dd2017",
-    "username": "Anik12",
-    "password": "Anik12",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user3",
-    "password": "pass3",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
