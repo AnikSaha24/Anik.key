@@ -1,21 +1,16 @@
 [
   {
-    "id": "itea472cf9f34ec7",
-    "username": "anikmod",
-    "password": "anikmod",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },{
-    "id": "3ea472cf9f34e3c8",
-    "username": "Anik16",
-    "password": "Anik16",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-{,{
     "id": "1ea472cf9f34e3c3",
-    "username": "Anik2",
-    "password": "Anik2",
-    "expiresAt": "2025-12-30",
+    "username": "Anik12",
+    "password": "Anik12",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
     "allowOffline": false
   }
 ]
